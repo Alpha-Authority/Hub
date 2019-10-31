@@ -1,5 +1,5 @@
 ---
-description: 'Official Alpha Authority''s Website Landing Page - Currently [V0.0.4]'
+description: 'Official Alpha Authority''s Website Landing Page - Currently [V0.0.5]'
 ---
 
 # Home
