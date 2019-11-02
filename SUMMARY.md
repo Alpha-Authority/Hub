@@ -1,17 +1,20 @@
 # Table of contents
 
 * [Home](README.md)
+* [Site Directory](documentation.md)
 
-## FAQ
+## Code of Unification <a id="faq"></a>
 
-* [Getting Started](faq/getting-started.md)
-* [Getting Started](faq/getting-started-1.md)
+* [AA Explained](faq/getting-started-1.md)
+* [CoU Explained](faq/cou-explained.md)
+* [Hierchy](faq/hierchy.md)
+* [Pledge](faq/pledge.md)
 
 ## Directory
 
-* [Documentation](directory/documentation.md)
-* [Social Network](directory/social-network.md)
+* [Communications](directory/communications.md)
+* [Guides](directory/social-network.md)
 * [Newsletters](directory/newsletters.md)
 
-## News
+## Archives <a id="news"></a>
 
