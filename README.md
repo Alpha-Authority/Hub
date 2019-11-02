@@ -4,7 +4,7 @@ description: 'Official Alpha Authority''s Website Landing Page - Currently [V0.0
 
 # Home
 
-## Group Basics
+## Introduction
 
 Alpha Authority is a unique community based around the Roblox Clans & Guilds forum community. Created in 2013 as a War Clan, we've been on the Bloxy Award nominations, had over 31,000 users in our group player base, and had hundreds to join in single events. Although we're a sliver of what that was, we are a valiant force to be reckoned with, symbolized by the White Wolf: Family, Teamwork, Loyalty, Ferocity, Survival.  
   

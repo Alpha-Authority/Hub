@@ -5,4 +5,5 @@
 ## FAQ
 
 * [Getting Started](faq/getting-started.md)
+* [Getting Started](faq/getting-started-1.md)
 
