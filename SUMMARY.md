@@ -1,20 +1,18 @@
 # Table of contents
 
 * [Home](README.md)
-* [Site Directory](documentation.md)
 
-## Code of Unification <a id="faq"></a>
+## Site Directory <a id="directory"></a>
 
-* [AA Explained](faq/getting-started-1.md)
-* [CoU Explained](faq/cou-explained.md)
-* [Hierchy](faq/hierchy.md)
-* [Pledge](faq/pledge.md)
+* [Master Site](https://alpha-authority.gitbook.io/alphaauthority/)
+* [Code of Unification](https://alpha-authority.gitbook.io/code-of-unification/)
 
-## Directory
+## Groups
 
-* [Communications](directory/communications.md)
-* [Guides](directory/social-network.md)
-* [Newsletters](directory/newsletters.md)
+* [Alpha Authority](https://www.roblox.com/My/Groups.aspx?gid=790907)
+* [Alpha Insurgency](https://www.roblox.com/My/Groups.aspx?gid=3460199)
 
-## Archives <a id="news"></a>
+## Media
+
+* [Twitter](https://twitter.com/OfficialRBXAA)
 
