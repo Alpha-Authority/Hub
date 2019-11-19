@@ -1,5 +1,5 @@
 ---
-description: 'Official Alpha Authority''s Website Landing Page - Currently [V0.0.9]'
+description: 'Official Alpha Authority''s Website Landing Page - Currently [V0.0.10]'
 ---
 
 # Home
@@ -7,6 +7,9 @@ description: 'Official Alpha Authority''s Website Landing Page - Currently [V0.0
 ## Maintenance Active
 
 This site isn't active for full operation in Alpha Authority. It is currently a work in progress, so expect changes to happen gradually.  
+  
+**Master Site**  
+[https://alpha-authority.gitbook.io/alphaauthority/](https://alpha-authority.gitbook.io/alphaauthority/)  
   
 _**Code of Unification**_  
 [https://alpha-authority.gitbook.io/code-of-unification/](https://alpha-authority.gitbook.io/code-of-unification/)
