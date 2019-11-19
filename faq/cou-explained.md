@@ -1,2 +1,0 @@
-# CoU Explained
-
